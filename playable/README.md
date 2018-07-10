@@ -1,5 +1,5 @@
 # Play the game!
-Here you can find compiled versions of *Redemption* that should be ready to place. 
+Here you can find compiled versions of *Redemption* that should be ready to play. 
 
 ## NOTE:
 Mac version coming soon. :)
